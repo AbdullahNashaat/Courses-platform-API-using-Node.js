@@ -1,0 +1,5 @@
+x 1- add attrs: description, start date, end date, category []
+x 2- save in json file 
+  3- add search endpoint with url parameters (name, sartDateFrom, startDateTo, category)
+  4- uuid
+  5- unique name
