@@ -10,4 +10,6 @@ function writeonjason(data){
     );
 }
 
-module.exports.writeonjason= writeonjason;
+// add read, put form DB
+
+module.exports.writeonjason= writeonjason;                                                                                                                                                              
